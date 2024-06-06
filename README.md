@@ -1,4 +1,4 @@
-# Otimização de Ações de Conservação Marinha com Programação Dinâmica
+# Tijolo do Mar(Algoritimo de Conservação Marinha)
 
 Este repositório contém um código Python que implementa um algoritmo de otimização por programação dinâmica para identificar as áreas marinhas que devem ser priorizadas para ações de conservação. O algoritmo considera critérios como biodiversidade, vulnerabilidade, conectividade e custo.
 
@@ -35,3 +35,9 @@ Demonstra a aplicação da função otimizar_alocacao com dados fictícios. Most
 
 ## Conclusão
 Este código fornece uma base para a otimização da alocação de recursos para ações de conservação marinha. Com adaptações e melhorias, pode ser uma ferramenta valiosa para auxiliar na proteção dos oceanos e na preservação da biodiversidade marinha.
+
+##Integrantes
+- Felipe Arnus – RM: 550923
+- João Vieira – RM: 99805
+- João Chambrone – RM: 97857
+
