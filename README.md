@@ -36,7 +36,7 @@ Demonstra a aplicação da função otimizar_alocacao com dados fictícios. Most
 ## Conclusão
 Este código fornece uma base para a otimização da alocação de recursos para ações de conservação marinha. Com adaptações e melhorias, pode ser uma ferramenta valiosa para auxiliar na proteção dos oceanos e na preservação da biodiversidade marinha.
 
-##Integrantes
+## Integrantes
 - Felipe Arnus – RM: 550923
 - João Vieira – RM: 99805
 - João Chambrone – RM: 97857
